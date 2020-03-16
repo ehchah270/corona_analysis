@@ -6,4 +6,4 @@ The Data is downloaded from https://github.com/CSSEGISandData/COVID-19/tree/mast
 
 # Software packages
 
-you will need python 3 with pandas, matplotlit and jupyter to run this code
+you will need python 3 with pandas, plotly and jupyter to run this code
